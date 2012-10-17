@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/qxj/workspace/rails/depot'
+let g:netrw_dirhist_2='/home/qxj/workspace/rails'
+let g:netrw_dirhist_3='/home/qxj/workspace'
+let g:netrw_dirhist_4='/home/qxj/workspace/rails/depot'
+let g:netrw_dirhist_5='/home/qxj/workspace/rails/depot/public'
+let g:netrw_dirhist_6='/home/qxj/workspace/rails/depot'
+let g:netrw_dirhist_7='/home/qxj/workspace/rails/depot/public'
+let g:netrw_dirhist_8='/home/qxj/workspace/rails/depot'
