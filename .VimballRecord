@@ -1,0 +1,2 @@
+checksyntax.vba: call delete('/home/qxj/.vim/doc/checksyntax.txt')|call delete('/home/qxj/.vim/plugin/checksyntax.vim')|call delete('/home/qxj/.vim/autoload/checksyntax.vim')
+Align.vba: call delete('/home/qxj/.vim/plugin/AlignPlugin.vim')|call delete('/home/qxj/.vim/plugin/AlignMapsPlugin.vim')|call delete('/home/qxj/.vim/plugin/cecutil.vim')|call delete('/home/qxj/.vim/doc/Align.txt')|call delete('/home/qxj/.vim/autoload/Align.vim')|call delete('/home/qxj/.vim/autoload/AlignMaps.vim')
