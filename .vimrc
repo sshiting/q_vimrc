@@ -98,7 +98,7 @@ autocmd VimEnter,Colorscheme * :hi IndentGuidesEven guibg=#444444 ctermbg=4
 
 " @@qinxij 
 " START configuration for matchit.vim {{{
-source $VIMRUNTIME/plugin/matchit.vim
+source ~/.vim/plugin/matchit.vim
 filetype plugin on
 " END imatchit.vim }}}
 
