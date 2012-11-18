@@ -259,7 +259,9 @@ inoremap <expr> <C-U>      pumvisible()?"\<C-E>":"\<C-U>"
 " <C-F12> to reCtags current directroy -R (Recursion)
 map <C-F12> :!ctags -R --c++-kinds=+p --fields=+iaS --extra=+q .<CR>
 " end Mapping --------------------------------------------
-"
+" use stl/tags
+set tags+=~/.vim/stl/tags
+set tags+=~/.vim/qt_include/tags
 " OmniCppComplete value setting
 let OmniCpp_NamespaceSearch = 1 
 let OmniCpp_GlobalScopeSearch = 1 
